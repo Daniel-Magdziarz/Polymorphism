@@ -16,7 +16,7 @@ public class Main {
         vehicle1.driveCar();
         System.out.println("================");
 
-        //##Tastcase2:
+        //##Tastcase 2:
         Vehicle vehicle2 = new Offroad("Toyota Tacoma");//Offroad is part of Vehicle
         vehicle2.driveCar();
         System.out.println("================");
@@ -26,7 +26,7 @@ public class Main {
         vehicle3.driveCar();
         System.out.println("================");
 
-        //**Testcase 3:
+        //**Testcase 4:
         Vehicle vehicle4 = new Emergency("Fire Truck");
         vehicle4.driveCar();
         System.out.println("================");
